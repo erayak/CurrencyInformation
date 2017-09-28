@@ -1,0 +1,23 @@
+{
+  "name": "currency",
+  "version": "1.0.0",
+  "description": "Command line Currency Information ( Node Js ) Edit",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erayak/CurrencyInformation.git"
+  },
+  "author": "eray akyildiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erayak/CurrencyInformation/issues"
+  },
+  "homepage": "https://github.com/erayak/CurrencyInformation#readme",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "request": "^2.83.0"
+  }
+}
